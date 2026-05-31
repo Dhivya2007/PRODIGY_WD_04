@@ -39,4 +39,18 @@ It showcases my skills, projects, education, and experience as a Computer Scienc
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 👩‍🎓 Author
+
+**Dhivya K**  
+Computer Science Engineering Student  
+Email: kdhivya2007@gmail.com 
+GitHub: https://github.com/Dhivya2007  
+LinkedIn: https://www.linkedin.com/in/dhivya-k-608192328
+
+---
+
+## 📌 Note
+This project is created as part of my web development internship tasks.
