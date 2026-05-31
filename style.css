@@ -1,0 +1,73 @@
+body{
+    background:#0f172a;
+    color:white;
+    font-family:poppins;
+}
+
+.section{
+    padding:80px 0;
+}
+
+.glass-nav{
+    background:rgba(0,0,0,0.3);
+    backdrop-filter:blur(10px);
+}
+
+.hero{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    background:linear-gradient(135deg,#1e3a8a,#6d28d9);
+}
+
+.glow-title{
+    font-size:60px;
+    font-weight:bold;
+    text-shadow:0 0 20px #00f2ff;
+}
+
+.typing{
+    color:#00f2ff;
+    margin-top:10px;
+}
+
+.hero-text{
+    max-width:600px;
+    margin:auto;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:40px;
+    color:#00f2ff;
+}
+
+.glass-card{
+    background:rgba(255,255,255,0.08);
+    padding:20px;
+    border-radius:15px;
+    backdrop-filter:blur(10px);
+    transition:0.3s;
+}
+
+.glass-card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 0 20px #00f2ff;
+}
+
+.progress{
+    height:10px;
+    background:#1e293b;
+}
+
+.progress-bar{
+    font-size:10px;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    background:black;
+}
